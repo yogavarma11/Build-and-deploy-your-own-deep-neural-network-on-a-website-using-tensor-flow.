@@ -27,9 +27,9 @@ Upload all files (HTML, JS, CSS, and model folder) to a hosting platform such as
 
 
 ## PROGRAM:
-Name: KAVIPRIYA SP
+Name: YOGAVARMA B
 
-Register Number:2305002011
+Register Number:2305002029
 ~~~
 import tensorflow as tf
 from tensorflow.keras import layers, models
